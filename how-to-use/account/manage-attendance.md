@@ -9,3 +9,5 @@
 ## User can input their NIM
 ![image](https://github.com/Absenin/docs/assets/82990248/cb1ad433-b748-4ee6-8ccc-8ad6476e5c51)
 ## And click Masuk
+## User will be popup at the dashboard
+![image](https://github.com/Absenin/docs/assets/82990248/8860107e-5a05-4c79-b89b-37ac6b14b82f)
